@@ -1,4 +1,6 @@
 -- Retreived data from Our World in Data
+-- All work was done on Big Query
+-- Bigquery Link https://console.cloud.google.com/bigquery?sq=231534673193:394f8f059538423ca2c7ce2404914892
 
 SELECT *
 FROM thermal-proton-370214.PortfolioProject.CovidDeaths
